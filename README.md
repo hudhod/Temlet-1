@@ -1,2 +1,2 @@
 # Temlet-1
-first Templet to to leren HTML and CSS
+first Templet to leren HTML and CSS
